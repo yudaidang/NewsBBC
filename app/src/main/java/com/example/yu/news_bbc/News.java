@@ -4,6 +4,8 @@ package com.example.yu.news_bbc;
  * Created by cpu11268-local on 05/02/2018.
  */
 
+
+//Yu: Create class News
 public class News {
     private String author;
     private String title;
